@@ -24,6 +24,9 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
+![Screenshot (83)](https://user-images.githubusercontent.com/94233064/143886385-1758264b-1d1d-4597-98db-f91950d2144c.png)
+
+
 
 
 ### RESULT:
